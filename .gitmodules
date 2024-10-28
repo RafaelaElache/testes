@@ -7,3 +7,6 @@
 [submodule "cochicho"]
 	path = cochicho
 	url = https://github.com/Luizarego/cochicho
+[submodule "tagarela"]
+	path = tagarela
+	url = https://github.com/LivVanessa/tagarelaa
