@@ -2,5 +2,5 @@
 	path = website-vuejs
 	url = https://github.com/LarissaTerto/website-vuejs
 [submodule "viralataa"]
-	path = viralata
+	path = viralata @ dbae20f
 	url = https://github.com/Luizarego/viralataa
