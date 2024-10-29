@@ -12,25 +12,25 @@
 	url = https://github.com/LivVanessa/tagarela
 [submodule "cuidando-antigo-v1"]
 	path = cuidando-antigo-v1
-	url = https://gitlab.com/cuidandodomeubairro/cuidando-antigo-v1
+	url = https://github.com/LarissaTerto/cuidando-antigo-v1
 [submodule "cuidando_utils"]
 	path = cuidando_utils
-	url = https://gitlab.com/cuidandodomeubairro/cuidando_utils
+	url = https://github.com/LarissaTerto/cuidando_utils
 [submodule "documentos"]
 	path = documentos
-	url = https://gitlab.com/cuidandodomeubairro/documentos
+	url = https://github.com/LarissaTerto/documentos
 [submodule "esic-livre"]
 	path = esic-livre
-	url = https://gitlab.com/cuidandodomeubairro/esic-livre
+	url = https://github.com/LarissaTerto/esic-livre
 [submodule "gastos-abertos"]
 	path = gastos-abertos
-	url = https://gitlab.com/cuidandodomeubairro/gastos-abertos
+	url = https://github.com/LarissaTerto/gastos-abertos
 [submodule "geral"]
 	path = geral
-	url = https://gitlab.com/cuidandodomeubairro/geral
+	url = https://github.com/LarissaTerto/geral
 [submodule "viratoken"]
 	path = viratoken
-	url = https://gitlab.com/cuidandodomeubairro/viratoken
+	url = https://github.com/LarissaTerto/viratoken
 [submodule "website-master"]
 	path = website-master
-	url = https://gitlab.com/cuidandodomeubairro/website-master
+	url = https://github.com/LarissaTerto/website-master
