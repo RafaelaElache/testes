@@ -3,13 +3,13 @@
 	url = https://github.com/LarissaTerto/website-vuejs
 [submodule "viralata"]
 	path = viralata
-	url = https://github.com/Luizarego/viralata
+	url = https://github.com/LarissaTerto/viralata
 [submodule "cochicho"]
 	path = cochicho
 	url = https://github.com/LarissaTerto/cochicho
 [submodule "tagarela"]
 	path = tagarela
-	url = https://github.com/LivVanessa/tagarela
+	url = https://github.com/LarissaTerto/tagarela
 [submodule "cuidando-antigo-v1"]
 	path = cuidando-antigo-v1
 	url = https://github.com/LarissaTerto/cuidando-antigo-v1
