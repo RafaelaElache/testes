@@ -10,3 +10,6 @@
 [submodule "tagarela"]
 	path = tagarela
 	url = https://github.com/LivVanessa/tagarela
+[submodule "testes"]
+	path = testes
+	url = https://github.com/LarissaTerto/testes
