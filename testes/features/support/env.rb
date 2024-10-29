@@ -3,4 +3,4 @@ require 'capybara/cucumber'
 require 'capybara/rspec'
 
 Capybara.default_driver = :selenium_chrome # or :selenium
-Capybara.app_host = 'http://localhost:8080' # your app's host
+Capybara.app_host = 'https://cuidando.vc/2022/1' # your app's host
