@@ -6,7 +6,7 @@
 	url = https://github.com/Luizarego/viralata
 [submodule "cochicho"]
 	path = cochicho
-	url = https://github.com/Luizarego/cochicho
+	url = https://github.com/LarissaTerto/cochicho
 [submodule "tagarela"]
 	path = tagarela
 	url = https://github.com/LivVanessa/tagarela
