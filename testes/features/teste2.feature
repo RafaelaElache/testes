@@ -1,4 +1,4 @@
-Feature: Sample feature
+Feature: Resources table
   Scenario: Download resources table
     Given I am on the homepage
     When I click on "BAIXAR TABELA" button
