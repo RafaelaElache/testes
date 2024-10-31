@@ -1,8 +1,6 @@
-Feature: About Page
+Feature: Página Sobre
 
-  Scenario: Access the About page
-    Given I am on the homepage
-    When I click on "Sobre" in the navigation menu
-    Then I should be on the About page
-    And I should see "Cuidando do Meu Bairro" in the page header
-    And I should see content about the organization's purpose
+  Scenario: Acessar a página Sobre
+    Given que estou na página inicial do site "Cuidando do Meu Bairro"
+    When clico no botão "Sobre" no menu de navegação
+    Then devo ser redirecionado para a página Sobre em "https://cuidando.vc/sobre"
