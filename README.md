@@ -5,6 +5,7 @@ Integrantes do projeto:
 - Livia Vanessa Carlini Martins -	13671601
 - Luiza Silva e Rego - 13831697
 - Rafaela Elache Maciel -	13838666
+- Ezequiel Park
 
 #CodeClimate badge: [![Maintainability](https://api.codeclimate.com/v1/badges/bbe2736330a7c06d6c66/maintainability)](https://codeclimate.com/github/LarissaTerto/website-vuejs/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/bbe2736330a7c06d6c66/test_coverage)](https://codeclimate.com/github/LarissaTerto/website-vuejs/test_coverage)
 
