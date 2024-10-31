@@ -8,5 +8,6 @@ Quando('clico no botão "Blog"') do
 end
 
 Então('devo ser redirecionado para a página do blog em {string}') do |expected_url|
-  expect(page).to have_current_path(expected_url, url: true)
+  switch_to_window { title == 'Cuidando do Meu Bairro | Co:Lab' }
+  assert_current_path(expected_url)
 end
