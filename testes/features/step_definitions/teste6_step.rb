@@ -1,4 +1,4 @@
-Given('que estou na página inicial do site "Cuidando do Meu Bairro"') do
+Given('que estou na home do site "Cuidando do Meu Bairro"') do
   visit 'https://cuidando.vc/2022/1' 
 end
 
