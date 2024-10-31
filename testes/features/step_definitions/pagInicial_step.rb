@@ -1,12 +1,11 @@
-# features/step_definitions/sample_steps.rb
 require 'capybara/cucumber'
 require 'selenium-webdriver'
 require 'capybara/rspec'
 
-Given('I am on the homepage') do
+Given('eu estou na página inicial') do
   visit '/'
 end
 
-Then('I should see {string}') do |text|
+Then('eu deveria ver a frase {string}') do |text|
   expect(page).to have_content(text)
 end
