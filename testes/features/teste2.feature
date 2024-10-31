@@ -1,5 +1,5 @@
-Feature: Resources table
-  Scenario: Download resources table
-    Given I am on the homepage
-    When I click on "BAIXAR TABELA" button
-    Then I should be redirected to https://devcolab.each.usp.br/dadosorcamentarios/
+Feature: Tabela de recursos
+  Scenario: Baixar tabela de recursos
+    Given que estou na página inicial do site "Cuidando do Meu Bairro"
+    When clico no botão "BAIXAR TABELA"
+    Then devo ser redirecionado para a página em "https://devcolab.each.usp.br/dadosorcamentarios/"
