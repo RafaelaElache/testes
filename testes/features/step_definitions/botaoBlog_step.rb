@@ -3,7 +3,7 @@ Dado('que já estou na página inicial do site "Cuidando do Meu Bairro"') do
   visit 'https://cuidando.vc/2022/1'
 end
 
-Quando('clico no botão "Blog"') do
+Quando('clico em "Blog"') do
   expect(page).to have_selector('#navbar > ul > li:nth-child(4) > a') 
   find('#navbar > ul > li:nth-child(4) > a').click
 end
